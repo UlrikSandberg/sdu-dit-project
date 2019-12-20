@@ -1,0 +1,1 @@
+ab -p testQuery.txt -T application/json -c 10 -n 10000 http://localhost:4000/graphql?

@@ -1,0 +1,1 @@
+'{"query":"{\n  posts {\n    id\n    author\n    content\n    vote\n    createdAt\n    updatedAt\n    comments{\n    \tid\n    }\n    commentCount\n    \n  }\n}","variables":null}'
